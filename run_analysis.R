@@ -89,3 +89,7 @@ View(agg)
 
 # Writing out text file based on final, aggregated tidy data set
 write.table(agg, file="./tidyagg.txt", sep="\t", row.names=FALSE)
+
+
+
+
