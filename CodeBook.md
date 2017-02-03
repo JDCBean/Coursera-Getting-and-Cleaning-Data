@@ -8,7 +8,7 @@ I have created this data set using the tidy data principles established by **Had
 * Activity names used instead of codes
 * File structure to suit further analysis of metrics with subject-activity pairs as the units of observation
 
-## For a given subject and activity, metrics representing the various activity measurements are provided for each of the 30 subject-activity combinations.  The file contains 180 records (30 subjects x 6 activities) and 68 variables, beginning with the SubjectID and Activity.
+For a given subject and activity, metrics representing the various activity measurements are provided for each of the 30 subject-activity combinations.  The file contains 180 records (30 subjects x 6 activities) and 68 variables, beginning with the SubjectID and Activity.
 
 ## Subject and Activity
 
