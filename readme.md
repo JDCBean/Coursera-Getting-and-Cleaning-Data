@@ -4,7 +4,7 @@ The objective of the class project for [Getting and Cleaning Data] (https://www.
 
 Note: Before running the R Script, you must first replace the existing file path used for this specific analysis with your own chosen project folder path name that contains your R Script.  Once this has been changed, the R Script will then create a sub-folder called "Project" to "house" the data files that are then downloaded and unzipped.
 
-Once the steps above are completed, you can run the R script (run_analysis.R).
+Once the steps above are completed, you can run the R script [run_analysis.R] (https://github.com/JDCBean/Coursera-Getting-and-Cleaning-Data/blob/master/run_analysis.R).
 
 The output of the R script is a tidy data set in tab-delimited form, called "tidyagg.txt".  To read in the tidyagg.txt file, use the following:
 
