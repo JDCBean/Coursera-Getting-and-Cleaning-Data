@@ -3,10 +3,12 @@
 This code book describes the `tidyagg.txt` summary data file created from source data in the [Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set] (http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions) using the run_analysis.R script.
 
 ## Comment on Tidy Data
-I have created this data set using the tidy data principles established by **Hadley Wickham** in his seminal [paper] (http://vita.had.co.nz/papers/tidy-data.html).  For a given subject and activity, metrics representing the various activity measurements are provided for each of the 30 subject-activity combinations.  The file contains 180 records (30 subjects x 6 activities) and 68 variables, beginning with the SubjectID and Activity.
+I have created this data set using the tidy data principles established by **Hadley Wickham** in his seminal [paper] (http://vita.had.co.nz/papers/tidy-data.html).
 * Intuitive, "human readable" variable naming
 * Activity names used instead of codes
 * File structure to suit further analysis of metrics with subject-activity pairs as the units of observation
+
+## For a given subject and activity, metrics representing the various activity measurements are provided for each of the 30 subject-activity combinations.  The file contains 180 records (30 subjects x 6 activities) and 68 variables, beginning with the SubjectID and Activity.
 
 ## Subject and Activity
 
