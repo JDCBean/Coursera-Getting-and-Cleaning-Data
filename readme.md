@@ -7,4 +7,5 @@ Note: Before running the R Script, you must first replace the existing file path
 Once the steps above are completed, you can run the R script (run_analysis.R).
 
 The output of the R script is a tidy data set in tab-delimited form, called "tidyagg.txt".
-You can read more about the data and the analysis in the code book.
+
+You can read more about the data and the analysis in the [code book].(https://github.com/JDCBean/Coursera-Getting-and-Cleaning-Data/blob/master/CodeBook.md)
